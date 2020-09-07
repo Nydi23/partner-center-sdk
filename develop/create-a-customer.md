@@ -206,7 +206,7 @@ Connection: Keep-Alive
 
 {
     "CompanyProfile": {
-        "Domain": "xyz.ccsctp.net",
+        "Domain": "xyz.ccsctp.net"
     },
     "BillingProfile": {
         "Culture": "EN-US",
@@ -220,7 +220,7 @@ Connection: Keep-Alive
             "City": "Redmond",
             "State": "WA",
             "PostalCode": "98052",
-            "Country": "US",
+            "Country": "US"
         }
     }
 }
